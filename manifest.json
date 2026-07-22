@@ -1,0 +1,11 @@
+{
+  "name": "Esteban's Learning Adventure",
+  "short_name": "Esteban Game",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#7c3aed",
+  "theme_color": "#5b5bd6",
+  "orientation": "any",
+  "icons": []
+}
